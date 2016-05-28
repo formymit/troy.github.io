@@ -1,0 +1,6 @@
+{
+  "name": "Troy的博客---Troy.GitHub.io",
+  "tagline": "Troy的博客",
+  "body": "HI, This is my fist blog in GitHub. Here is a simple test:获得更好的成长环境\r\n带参数 的 taomcat会自动调用 init（）方法\r\n学得越快 忘得越快\r\nurl－pattern\r\n过滤器 多个路径就是为了充当过滤器 \r\n通配符 ＊ 可以匹配多个路径 0-n个任意字符\r\n路径匹配 只要路径对的 其他全都算对\r\n＊.do 拓展名匹配\r\n动态伪装成静态的嫌疑\r\nstructs2  拓展名 建议\r\n只要拓展名对 就匹配\r\n／＊匹配所有的URL  所有请求由它一人承担\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
