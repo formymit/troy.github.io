@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://formymit.github.io
+title: 大树的技术博客
+subtitle: 记录自己的技术成长，收获与分享知识，收获乐趣
+author: 刘涛
 simple_search: https://www.google.com/search
 description:
 
